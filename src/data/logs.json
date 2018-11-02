@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Test 1",
+    "summary": "Test this.",
+    "link": "http://link"
+  },
+  {
+    "id": "2",
+    "title": "Test 2",
+    "summary": "Test another",
+    "link": "http://link2"
+  },
+  {
+    "id": "3",
+    "title": "Test 3",
+    "summary": "Test another",
+    "link": "http://link2"
+  }
+]
