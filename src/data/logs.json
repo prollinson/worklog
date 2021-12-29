@@ -1,20 +1,33 @@
 [
   {
     "id": "1",
-    "title": "Test 1",
-    "summary": "Test this.",
-    "link": "http://link"
+    "date": "2018-07-01",
+    "title": "Bradfield de-brief",
+    "summary": "Knowledge Sharing: Bradfield de-brief to Caviar Engineering Managers.",
+    "link": "http://link",
+    "tags": ["teaching"]
   },
   {
     "id": "2",
+    "date": "2018-07-01",
     "title": "Test 2",
     "summary": "Test another",
-    "link": "http://link2"
+    "link": "http://link2",
+    "tags": [
+      "technical",
+      "pull_request"
+    ]
   },
   {
     "id": "3",
-    "title": "Test 3",
+    "date": "2018-07-01",
+    "title": "zestyzesty/backend#6915",
     "summary": "Test another",
-    "link": "http://link2"
+    "comment": "Helped reduce the size of our growing developer DB backups which often causes frustration.",
+    "link": "https://github.com/zestyzesty/backend/pull/6915",
+    "tags": [
+      "technical",
+      "pull_request"
+    ]
   }
 ]
